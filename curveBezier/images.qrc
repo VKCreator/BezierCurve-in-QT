@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>curved-line.ico</file>
+    </qresource>
+</RCC>
